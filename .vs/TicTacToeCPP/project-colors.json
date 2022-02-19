@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c82e0d13-d118-49ae-932f-834446dbcf49": {
+      "ProjectGuid": "c82e0d13-d118-49ae-932f-834446dbcf49",
+      "DisplayName": "TicTacToeCPP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
