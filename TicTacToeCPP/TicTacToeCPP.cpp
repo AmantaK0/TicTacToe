@@ -173,7 +173,7 @@ char Win() {    //ne kete funksion do te meren me radhe te gjitha mundesite e fi
     return '/'; //kjo do thirret me vone tek maini per te na treguar qe loja del barazim
 }
 
-int main()
+int main()   //funksioni ku do te thirren te gjithe funksionet e tjera te lojes.
 {
     n = 0;
     Draw();
